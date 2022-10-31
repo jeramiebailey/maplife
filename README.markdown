@@ -1,9 +1,7 @@
-# Outdoor Maps for Mobile and Desktop
+# MapLife for Mobile and Desktop
 
 This project is a lightweight web based viewer for the best free online map
 services.
-
-Launch http://outdoormaps.eu.
 
 The motivation behind the Outdoor Maps Project is to bring high quality maps to
 any modern web browser (including mobile browsers). Unfortunately the
